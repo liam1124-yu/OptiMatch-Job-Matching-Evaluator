@@ -12,7 +12,6 @@
 ## 技術架構
 - **Workflow Engine**: Dify
 - **Core LLM**: Gemini 1.5 Pro / GPT-5
-- **Reranking Model**: BAAI/bge-reranker-v2-m3 (via Hugging Face API)
 - **Data Scraping**: Firecrawl (SCRAPE node)
 
 ## 使用說明
